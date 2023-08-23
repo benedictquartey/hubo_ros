@@ -8,4 +8,4 @@ A ROS package for DRC-Hubo. Connects to Podo and uses the MELK AL to issue comma
 4. Cd into devel folder
 5. Run source setup.bash to make package findable to the ros system
 6. Start a ros_core node then you can now run the hubotalker node of the hubo_ros package with:  *rosrun hubo_ros hubotalker*
-7. Run the example [talker.py](http://talker.py) script
+7. Run the example [example_script.py](http://example_script.py) script
